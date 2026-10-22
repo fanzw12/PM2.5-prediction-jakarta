@@ -1,5 +1,4 @@
 # PM2.5-prediction-jakarta
-# Prediction of PM2.5 Concentration in Jakarta Using Statistical and Machine Learning Methods
 
 ## 📌 Project Overview
 
