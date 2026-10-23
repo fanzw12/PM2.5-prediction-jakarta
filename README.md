@@ -1,4 +1,4 @@
-# PM2.5-prediction-jakarta
+# Prediction of PM₂.₅ in Megacity Jakarta using statistical and machine learning methods
 
 ## 📌 Project Overview
 
