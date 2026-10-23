@@ -15,14 +15,51 @@ Five prediction approaches are developed and compared to identify the model that
 
 ## 📂 Dataset
 
-The dataset consists of hourly observations from January 2020 to December 2024, collected from five air quality monitoring stations in DKI Jakarta.
+### Study Area and Period
 
-The data includes:
+The dataset consists of hourly observations collected from five air quality monitoring stations in DKI Jakarta, Indonesia.
 
-- **Air Pollutants:** PM2.5, PM10, SO2, CO, O3, and NO2.
-- **Meteorological Variables:** Air temperature, solar radiation, rainfall, relative humidity, and wind speed.
+- **Study Period:** January 1, 2020 – December 31, 2024
+- **Temporal Resolution:** Hourly
+- **Study Area:** DKI Jakarta, Indonesia
+- **Target Variable:** PM2.5 concentration (µg/m³)
 
-**Target Variable:** PM2.5 concentration (µg/m³).
+### Air Quality Data
+
+Air quality data were obtained from the DKI Jakarta Environmental Agency (Dinas Lingkungan Hidup DKI Jakarta).
+
+The pollutant variables include:
+
+- PM2.5
+- PM10
+- SO2
+- CO
+- O3
+- NO2
+
+### Meteorological Data
+
+Meteorological data were obtained from ERA5, a global atmospheric reanalysis dataset.
+
+The meteorological variables include:
+
+- **Air Temperature (°C)**
+- **Solar Radiation (W/m²)**
+- **Rainfall (mm)**
+- **Relative Humidity (%)**
+- **Wind Speed (m/s)**
+
+These variables provide additional information about weather conditions that may influence PM2.5 concentrations.
+
+### Monitoring Stations
+
+The study covers five monitoring stations in DKI Jakarta:
+
+1. DKI1 – Bundaran HI
+2. DKI2 – Kelapa Gading
+3. DKI3 – Jagakarsa
+4. DKI4 – Lubang Buaya
+5. DKI5 - Kebon Jeruk
 
 ## ⚙️ Project Workflow
 
